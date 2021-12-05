@@ -1,4 +1,8 @@
-.person {
+body {
+  background-color: black;
+}
+
+person {
   border: 10px solid transparent;
   margin-bottom: 25px;
   width: 80%;
