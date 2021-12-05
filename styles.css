@@ -1,3 +1,4 @@
+<style>
 body {
   background-color: #black;
 }
@@ -12,4 +13,4 @@ person {
 person:hover {
   border-color: #f1f1f1;
 }
-
+</style>
