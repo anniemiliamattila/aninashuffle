@@ -38,7 +38,7 @@ body {
   
        background-image: url("Anina.jpg");
 	   background-repeat: no-repeat;
-	  background-size: contain, cover;
+	  background-size: contain;
  
 	  }
 	  .bg-1 h3 {color: #fff;}
