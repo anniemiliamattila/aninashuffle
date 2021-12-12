@@ -130,3 +130,11 @@
   textarea {
     resize: none;
   }
+ div id="tietoaminusta" {
+  width: 100%;
+  height: 400px;
+  background-image: url('https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  border: 1px solid ;
+}
