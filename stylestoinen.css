@@ -33,7 +33,7 @@
       display: none; 
     }
   .bg-1 {
-     background-image: url('https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg');
+     background-image: url("https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg");
    background-repeat: no-repeat;
   background-size: contain;
 }
