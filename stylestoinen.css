@@ -28,10 +28,7 @@ body {
 	  .carousel-caption h3 {
 	    color: #fff ;
 	  }
-	  @media (max-width: 600px) {
-	    .carousel-caption {
-	      display: none; 
-	    }
+
 	  .bg-1 {
 	      background-image: url('https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg');
 	   background-repeat: no-repeat;
