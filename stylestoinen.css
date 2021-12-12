@@ -33,11 +33,14 @@ body {
 	      display: none; 
 	    }
 
-	  .bg-1 {
-	      background-image: url('https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg');
+  }
+  .bg-1 {
+    background: #2d2d30;
+    color: #bdbdbd;
+       background-image: url('https://vibadance.com/wp-content/uploads/2021/07/Anina-576x1024.jpg');
 	   background-repeat: no-repeat;
 	  background-size: contain;
-	}
+ 
 	  }
 	  .bg-1 h3 {color: #fff;}
 	  .bg-1 p {font-style: italic;}
